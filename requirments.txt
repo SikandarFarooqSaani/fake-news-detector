@@ -1,6 +1,5 @@
-streamlit
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
-torchaudio==2.0.2+cpu
-transformers
--f https://download.pytorch.org/whl/torch_stable.html
+streamlit==1.42.1
+torch==2.0.1
+transformers==4.36.2
+numpy==1.26.4
+pandas==2.2.3
